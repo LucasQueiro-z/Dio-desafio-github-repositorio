@@ -1,0 +1,26 @@
+# Link para download do Git: (https://git-scm.com/downloads)
+
+## O Git Bash é um terminal extendido para otimizar o uso do git
+
+## git init - cria um novo repositório
+
+## git status - verifica o status do repositório
+
+## git add "arquivo" - para adicionar ao controle de versão
+
+## git add . - para adicionar todos os arquivos ao controle de versão
+
+## git commit -m "Commit inicial"
+
+## git config --global user.email ""
+## git config --global user.name ""
+
+após criar repositorio:
+definindo link - git remote origin https:...
+subindo arquivo para GITHUB - git push origin master
+
+git reflog - histórico de versões
+
+git reset --hard id_versão
+
+git push
